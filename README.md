@@ -27,6 +27,9 @@ A brief description of what this project does and who it's for
 💅 Tailwind CSS styling
 
 🔄 Responsive and clean UI
+![image](https://github.com/user-attachments/assets/3ab3277c-f76e-47f0-ba72-9395497a5323)
 ![image](https://github.com/user-attachments/assets/b492ad2b-0f44-4146-8f62-8c8ef6b69ddd)
+![image](https://github.com/user-attachments/assets/c3acc881-e4d2-4b06-881f-1fa5835bc578)
+
 
 
