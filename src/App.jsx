@@ -13,7 +13,7 @@ function App() {
     {
       return;
     }
-    setTodo([...Todo,{id:Date.now,Text:task ,Date:date}])
+    setTodo([...Todo,{id: Date.now(),Text:task ,Date:date}])
     setTask('');
     setDate('')
   }
