@@ -31,5 +31,43 @@ A brief description of what this project does and who it's for
 ![image](https://github.com/user-attachments/assets/b492ad2b-0f44-4146-8f62-8c8ef6b69ddd)
 ![image](https://github.com/user-attachments/assets/c3acc881-e4d2-4b06-881f-1fa5835bc578)
 
+🔄 Responsive and clean UI git clone https://github.com/SAHILTHESPIDER/React-ToDO
 
+cd react-todo-app
+
+npm install
+
+npm run dev
+
+🧱 Built With
+
+React
+
+Tailwind CSS
+
+React Icons
+
+src/ ├── App.jsx # Main component 
+     ├── App.css # Custom styles
+     ├── index.js # Entry point 
+     └── assets/ # Optional images or icons
+     const addtodo = () => {
+  if (!task.trim() || !date.trim()) {
+    // show validation errors
+    return;
+  }
+  setTodo([...Todo, { id: Date.now(), Text: task, Date: date }]);
+  setTask('');
+  setDate('');
+};
+✅ To Do
+ Add edit task feature
+
+ Add local storage or backend
+
+ Add sorting by date
+
+ Add filters (completed, upcoming)
+ 📜 License
+This project is licensed under the MIT License.
 
