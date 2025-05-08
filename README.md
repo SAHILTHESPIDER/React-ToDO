@@ -11,5 +11,22 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-Topic-TO DO 
-y=
+TODO List App
+A brief description of what this project does and who it's for
+
+📝 React TODO List App A simple and responsive TODO List built using React, Tailwind CSS, and React Icons. Features include adding, deleting tasks, input validation, and date tracking.
+
+🚀 Features ✅ Add new tasks with due dates
+
+🗑️ Delete tasks
+
+⚠️ Input validation with error messages
+
+📆 Date picker integration
+
+💅 Tailwind CSS styling
+
+🔄 Responsive and clean UI
+![image](https://github.com/user-attachments/assets/b492ad2b-0f44-4146-8f62-8c8ef6b69ddd)
+
+
